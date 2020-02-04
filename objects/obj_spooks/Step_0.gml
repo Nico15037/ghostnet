@@ -8,6 +8,3 @@ if !(x == xtar)
 
 if !(y == xtar)
 { vsp = lengthdir_y(move_speed,dir); y += vsp; }
-
-x = floor(x);
-y = floor(y);
