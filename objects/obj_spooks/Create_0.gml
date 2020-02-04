@@ -5,6 +5,7 @@ xtar = x;
 ytar = y;
 hsp = 0;
 vsp = 0;
+dir = 0;
 
 level = 0;
 progress = 75;
