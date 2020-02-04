@@ -1,0 +1,1 @@
+instance_create_layer(128,128,"lyr_ghost",obj_spooks);

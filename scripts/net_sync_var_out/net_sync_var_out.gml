@@ -1,0 +1,1 @@
+myvars[| argument0] = argument1;

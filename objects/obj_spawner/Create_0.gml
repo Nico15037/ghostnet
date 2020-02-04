@@ -1,0 +1,1 @@
+spawn_timer_prey = 1*room_speed;
