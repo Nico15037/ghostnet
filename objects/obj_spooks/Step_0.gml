@@ -1,4 +1,5 @@
 // Move
+if !(is_local) { exit; }
 image_alpha = progress/100;
 
 if !(distance_to_point(xtar,ytar) < move_speed)

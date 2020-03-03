@@ -1,6 +1,3 @@
-draw_self();
-
-
 if (drawtime)
 {
 
